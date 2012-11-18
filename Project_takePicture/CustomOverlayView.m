@@ -7,7 +7,7 @@
 //
 
 #import "CustomOverlayView.h"
-
+// 테스트 입니다.
 @implementation CustomOverlayView
 @synthesize b_del;
 
